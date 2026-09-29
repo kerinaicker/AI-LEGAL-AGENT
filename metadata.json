@@ -1,0 +1,6 @@
+{
+  "name": "LexSA AI",
+  "description": "South African legal research assistant with verifiable authorities, zero-hallucination pipelines, and modes for legal professionals and the public.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
